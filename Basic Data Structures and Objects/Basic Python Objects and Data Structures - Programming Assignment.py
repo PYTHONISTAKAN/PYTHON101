@@ -20,7 +20,7 @@ Take two perpendicular sides (a,b) of a right triangle and try to find the lengt
 
 Hypotenuse Formula: a^2 + b^2 = c^2
 """
-"""
+
 #Problem 1
 a = int(input("1st number: "))
 b = int(input("2nd number: "))
@@ -64,7 +64,7 @@ temp = firstnumber
 firstnumber = secondnumber
 secondnumber = temp
 print("First number is {} and the second one is {}".format(firstnumber, secondnumber))
-"""
+
 #Problem 6
 
 #Formula: a^2 + b^2 = c^2
